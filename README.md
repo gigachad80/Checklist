@@ -14,3 +14,9 @@ Advanced techniques like deserialization, SSRF, and request smuggling
 Practical tools and resources for each testing phase
 Professional reporting guidelines for responsible disclosure
 
+
+Credits : 
+https://github.com/0xRadi/OWASP-Web-Checklist
+https://github.com/shubhamrooter/Bug-Hunting-Checklist
+https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md
+https://github.com/alihussainzada/BugHunterMethodology
