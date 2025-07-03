@@ -5,7 +5,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![OWASP](https://img.shields.io/badge/OWASP-compliant-red.svg)](https://owasp.org/www-project-web-security-testing-guide/)
 
-> A comprehensive, methodical approach to bug hunting and penetration testing compiled from OWASP guidelines, expert methodologies, and community best practices.
+> A comprehensive, methodical approach to bug hunting and penetration testing compiled from OWASP guidelines, multiple Github repos , expert methodologies, and community best practices.
 
 > [!NOTE]
 > ### Check the list here :
