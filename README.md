@@ -16,7 +16,7 @@
 **⏱️ Creation Time:** ~17 minutes ( Ik , it's quite long )
 **🤖 Generated with:** Claude 4 (Sonnet)  
 **📚 Sources:** Multiple web searches, Medium articles, security blogs, and community resources  
-**👥 Credits:** All credits to original authors - see Credits section below :
+**👥 Credits:** All credits to original authors - see [Credits](https://github.com/gigachad80/Checklist/tree/main?tab=readme-ov-file#-credits) section below :
 
 ---
 
