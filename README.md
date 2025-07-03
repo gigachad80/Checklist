@@ -7,8 +7,17 @@
 
 > A comprehensive, methodical approach to bug hunting and penetration testing compiled from OWASP guidelines, expert methodologies, and community best practices.
 
+## ⚡ Quick Info
+
+**⏱️ Creation Time:** ~17 minutes  
+**🤖 Generated with:** Claude 4 (Sonnet)  
+**📚 Sources:** Multiple web searches, Medium articles, security blogs, and community resources  
+**👥 Credits:** All credits to original authors - see [Acknowledgements](#-acknowledgements) section
+
+---
+
 When you have completed an action, don't forget to check it off! ✅  
-Happy hunting! 🎯
+Happy hunting! 🎯🎯
 
 ## 📋 Table of Contents
 
