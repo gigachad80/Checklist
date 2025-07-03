@@ -580,6 +580,8 @@
   - [ ] Test for HTTP protocol DoS
   - [ ] Test for SQL wildcard DoS
 
+[Back to Top](#toc)
+
 ## 🔍 Phase 12: Advanced Attack Techniques
 
 ### 12.1 Deserialization Attacks
