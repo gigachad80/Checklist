@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *This checklist is compiled from multiple comprehensive sources including OWASP guidelines, expert methodologies, community repositories, and bug bounty best practices. Regular updates recommended as new attack vectors emerge.*
 
-**Version 2.0 Updates:**
+**Version 3.0 Updates:**
 - Enhanced reconnaissance methodology with specific tools
 - Added comprehensive single domain scanning approach
 - Integrated manual intelligence gathering techniques
@@ -75,6 +75,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Improved file upload security testing
 - Enhanced HTML5 security testing
 - Updated toolset recommendations
+- LLM Security & Prompt Injection 
+- Session Management 
+- Web Cache Vulnerabilities 
 
 ---
 
