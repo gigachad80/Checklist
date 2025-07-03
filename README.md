@@ -9,7 +9,7 @@
 
 > [!NOTE]
 > ### Check the list here :
-> 👉 [CHECKLIST](https://github.com/gigachad80/Checklist/blob/main/CHECKLIST.md)
+> ### 👉 [CHECKLIST](https://github.com/gigachad80/Checklist/blob/main/CHECKLIST.md)
 
 
 ## ⚡ Quick Info
