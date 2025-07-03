@@ -15,7 +15,7 @@
 ## ⚡ Quick Info
 
 - **⏱️ Creation Time:** ~17 minutes ( Ik , it's quite long )
-- **🤖 Generated with:** Claude 4 (Sonnet)  
+- **🤖 Generated with:** Claude Sonnet 4  
 - **📚 Sources:** Multiple web searches, Medium articles, security blogs, and community resources  
 - **👥 Credits:** All credits to original authors - see Credits section below :
 
