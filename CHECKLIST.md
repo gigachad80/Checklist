@@ -175,6 +175,14 @@
   - [ ] Check for commonly used application and administrative URLs
   - [ ] Check for old, backup and unreferenced files
 
+### 2.3 Web Cache Security 
+- [ ] Test for web cache poisoning vulnerabilities.
+- [ ] Test for web cache deception vulnerabilities.
+- [ ] Verify proper cache control headers.
+- [ ] Check URL path parsing discrepancies.
+
+
+
 [Back to Top](#toc)
 
 ## 🔐 Phase 3: Authentication & Session Management
@@ -219,6 +227,8 @@
   - [ ] Establish how session management is handled (tokens in cookies, tokens in URL)
   - [ ] Check session cookie scope (path and domain)
   - [ ] Check session cookie duration (expires and max-age)
+  -  [ ] Test if sensitive pages can be accessed via browser history after logout
+  - [ ] Verify sensitive pages set proper cache control headers (e.g., `Cache-Control: no-cache, no-store`, `Pragma: no-cache`, `Expires: 0`)
 
 - [ ] **Session Lifecycle**
   - [ ] Session timeout implementation
@@ -441,6 +451,17 @@
   - [ ] Check CORS implementation
   - [ ] Check Offline Web Application security
 
+### 7.4 LLM Integration Security
+- [ ] Test for Prompt Injection in LLM features
+- [ ] Test for Insecure Output Handling
+- [ ] Check for Sensitive Information Disclosure through LLM responses
+- [ ] Test for Insecure Plugin Design in LLM integrations
+- [ ] Verify protections against Model Denial of Service attacks on LLMs
+- [ ] Check for Supply Chain Vulnerabilities in LLM dependencies
+- [ ] Ensure access controls are in place to prevent Model Theft
+- [ ] Verify that the application does not overrely on LLM outputs without proper validation
+
+      
 [Back to Top](#toc)
 
 
