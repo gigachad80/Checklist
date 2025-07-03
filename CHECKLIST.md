@@ -1,7 +1,24 @@
-# Comprehensive Bug Hunting Checklist - Version 2.0
-*A detailed, in-depth checklist compiled from OWASP guidelines, GitHub repositories, Medium articles, expert methodologies, and sehno's bug hunting checklist*
+## 📋 Table of Contents
 
-**Updated with additional insights from 5 comprehensive sources**
+* [🎯 Pre-Hunt Preparation](#-pre-hunt-preparation)
+* [🔍 Phase 1: Reconnaissance & Information Gathering](#-phase-1-reconnaissance--information-gathering)
+* [🔧 Phase 2: Configuration & Infrastructure Testing](#-phase-2-configuration--infrastructure-testing)
+* [🔐 Phase 3: Authentication & Session Management](#-phase-3-authentication--session-management)
+* [🛡️ Phase 4: Authorization & Access Control](#️-phase-4-authorization--access-control)
+* [💉 Phase 5: Input Validation & Injection Attacks](#-phase-5-input-validation--injection-attacks)
+* [🌐 Phase 6: Client-Side Security](#-phase-6-client-side-security)
+* [📱 Phase 7: Modern Web Application Security](#-phase-7-modern-web-application-security)
+* [🔒 Phase 8: Business Logic & Application-Specific Testing](#-phase-8-business-logic--application-specific-testing)
+* [🔐 Phase 9: Cryptography & Data Protection](#-phase-9-cryptography--data-protection)
+* [📤 Phase 10: File Upload & Processing](#-phase-10-file-upload--processing)
+* [💳 Phase 10.5: Payment & Card Processing Security](#-phase-105-payment--card-processing-security)
+* [🚫 Phase 11: Denial of Service Testing](#-phase-11-denial-of-service-testing)
+* [🔍 Phase 12: Advanced Attack Techniques](#-phase-12-advanced-attack-techniques)
+* [📝 Phase 13: Documentation & Reporting](#-phase-13-documentation--reporting)
+* [🛠️ Tools & Resources](#️-tools--resources)
+* [⚠️ Important Notes](#️-important-notes)
+
+---
 
 ## 🎯 Pre-Hunt Preparation
 
