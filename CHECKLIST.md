@@ -1,3 +1,4 @@
+<a id="toc"></a>
 ## 📋 Table of Contents
 
 * [🎯 Pre-Hunt Preparation](#-pre-hunt-preparation)
@@ -31,6 +32,7 @@
 - [ ] Set up dedicated testing environment/VM
 - [ ] Prepare necessary tools and proxies
 - [ ] Document target's main domains and subdomains
+[Back to Top](#toc)
 
 ## 🔍 Phase 1: Reconnaissance & Information Gathering
 
@@ -121,6 +123,8 @@
   - [ ] Test for differences in content based on User Agent (Mobile sites, search engine crawler access)
   - [ ] Perform comprehensive web application fingerprinting
 
+[Back to Top](#toc)
+
 ## 🔧 Phase 2: Configuration & Infrastructure Testing
 
 ### 2.1 Server Configuration
@@ -169,6 +173,8 @@
   - [ ] Log file accessibility
   - [ ] Check for commonly used application and administrative URLs
   - [ ] Check for old, backup and unreferenced files
+
+[Back to Top](#toc)
 
 ## 🔐 Phase 3: Authentication & Session Management
 
@@ -239,6 +245,8 @@
   - [ ] Refresh token security
   - [ ] Scope validation
 
+[Back to Top](#toc)
+
 ## 🛡️ Phase 4: Authorization & Access Control
 
 ### 4.1 Vertical Privilege Escalation
@@ -263,6 +271,8 @@
   - [ ] OPTIONS method information
   - [ ] HEAD method responses
   - [ ] TRACE/TRACK methods
+
+[Back to Top](#toc)
 
 ## 💉 Phase 5: Input Validation & Injection Attacks
 
