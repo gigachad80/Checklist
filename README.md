@@ -9,10 +9,10 @@
 
 ## ⚡ Quick Info
 
-**⏱️ Creation Time:** ~17 minute  
+**⏱️ Creation Time:** ~17 minute ( Ik , it's quite long )
 **🤖 Generated with:** Claude 4 (Sonnet)  
 **📚 Sources:** Multiple web searches, Medium articles, security blogs, and community resources  
-**👥 Credits:** All credits to original authors - see [Acknowledgements](https://github.com/gigachad80/Checklist/blob/main/README.md#-credits-) section
+**👥 Credits:** All credits to original authors - see [Credits](https://github.com/gigachad80/Checklist/blob/main/README.md#-credits-) section
 
 ---
 
