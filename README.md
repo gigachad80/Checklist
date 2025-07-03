@@ -7,6 +7,10 @@
 
 > A comprehensive, methodical approach to bug hunting and penetration testing compiled from OWASP guidelines, expert methodologies, and community best practices.
 
+> [!NOTE]
+> ### Check the list here : 👉 [CHECKLIST](https://github.com/gigachad80/Checklist/blob/main/CHECKLIST.md)
+
+
 ## ⚡ Quick Info
 
 **⏱️ Creation Time:** ~17 minute ( Ik , it's quite long )
