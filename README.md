@@ -1,4 +1,4 @@
-# 🐛 Comprehensive Bug Hunting Checklist v2.0
+# 🐛 Comprehensive Bug Hunting Checklist v3.0
 
 [![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/yourusername/bug-hunting-checklist)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
