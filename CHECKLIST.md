@@ -32,6 +32,7 @@
 - [ ] Set up dedicated testing environment/VM
 - [ ] Prepare necessary tools and proxies
 - [ ] Document target's main domains and subdomains
+      
 [Back to Top](#toc)
 
 ## 🔍 Phase 1: Reconnaissance & Information Gathering
@@ -363,6 +364,9 @@
   - [ ] Code Injection
   - [ ] Compare client-side and server-side validation rules
 
+[Back to Top](#toc)
+
+
 ## 🌐 Phase 6: Client-Side Security
 
 ### 6.1 Cross-Site Request Forgery (CSRF)
@@ -392,6 +396,9 @@
   - [ ] Null origin acceptance
   - [ ] Subdomain trust issues
   - [ ] Credentials exposure
+
+[Back to Top](#toc)
+
 
 ## 📱 Phase 7: Modern Web Application Security
 
@@ -434,6 +441,9 @@
   - [ ] Check CORS implementation
   - [ ] Check Offline Web Application security
 
+[Back to Top](#toc)
+
+
 ## 🔒 Phase 8: Business Logic & Application-Specific Testing
 
 ### 8.1 Business Logic Flaws
@@ -469,6 +479,10 @@
   - [ ] Test for integrity of data
   - [ ] Test segregation of duties
 
+
+[Back to Top](#toc)
+
+
 ## 🔐 Phase 9: Cryptography & Data Protection
 
 ### 9.1 Encryption Implementation
@@ -489,6 +503,9 @@
   - [ ] Credit card data exposure
   - [ ] Password in plaintext
   - [ ] API keys exposure
+
+[Back to Top](#toc)
+
 
 ## 📤 Phase 10: File Upload & Processing
 
@@ -538,6 +555,9 @@
   - [ ] Test for Authentication and Authorization issues in payment processes
   - [ ] Test for CSRF in payment operations
 
+[Back to Top](#toc)
+
+
 ## 🚫 Phase 11: Denial of Service Testing
 
 ### 11.1 Application-Level DoS
@@ -583,6 +603,9 @@
   - [ ] TE.TE vulnerabilities
   - [ ] HTTP/2 downgrade attacks
 
+[Back to Top](#toc)
+
+
 ## 📝 Phase 13: Documentation & Reporting
 
 ### 13.1 Evidence Collection
@@ -607,6 +630,8 @@
   - [ ] Remediation recommendations
   - [ ] Professional presentation
 
+[Back to Top](#toc)
+
 ## 🛠️ Tools & Resources
 
 ### Essential Tools
@@ -624,6 +649,8 @@
 - **Communities**: Bug bounty forums, Discord/Slack channels
 - **Blogs**: Security researcher blogs, writeups, methodologies
 
+[Back to Top](#toc)
+
 ## ⚠️ Important Notes
 
 1. **Always follow program rules and scope**
@@ -633,6 +660,8 @@
 5. **Stay updated with latest vulnerabilities and techniques**
 6. **Practice responsible disclosure**
 7. **Continuous learning is key to success**
+
+[Back to Top](#toc)
 
 ---
 *This checklist is compiled from 5+ comprehensive sources including OWASP guidelines, expert methodologies, community repositories (sehno, 0xRadi, shubhamrooter, alihussainzada), and bug bounty best practices. Regular updates recommended as new attack vectors emerge.*
