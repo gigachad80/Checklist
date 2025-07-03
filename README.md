@@ -37,7 +37,7 @@ Happy hunting! 🎯🎯
 
 ## 🤝 Contributing
 
-We welcome contributions from the security community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
+We welcome contributions from the security community!
 
 ### How to Contribute
 1. Fork the repository
